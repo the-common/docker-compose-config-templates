@@ -1,29 +1,15 @@
-# The Common Project Template
+# The Common Docker Compose Configuration Templates
 
-A common project template to start of, batteries included.
+Ready to use, batteries included Docker Compose configuration file at your fingertips!
 
-## How to use
+![GitHub Actions workflow status badge](https://github.com/the-common/docker-compose-config-templates/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status") [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/github.com/the-common/docker-compose-config-templates "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/github.com/the-common/docker-compose-config-templates)
 
-1. Click the ["Use this template" green button](https://github.com/the-common/project-template/generate) on the GitHub project page
-1. Follow the instructions on the webpage to create a new project
-1. Edit the [real.README.md project README template](real.README.md), replace the following `_placeholders_ to the appropriate content:
-    + `_project_name_`
-    + `_project_summary_`
-    + `_namespace_/_project_`
-    + `_license_name_`
-    + `_license_url_`
+## References
 
-    Also remove the unused `To be addressed` sections
-
-1. Replace the `Upstream-Name`, `Upstream-Contact`, and `Source` field of the [.reuse/dep5 REUSE DEP5 machine-readable copyright declaration document](.reuse/dep5) with appropriate content(project name, project's issue tracker's title and URL, and project's site URL)
-1. Replace [.markdownlint.yml](.markdownlint.yml) with [real.markdownlint.yml](real.markdownlint.yml)
-1. Replace [README.md](README.md)(this document) with [real.README.md](real.README.md)
-1. Customize/remove Telegram notification details in [.github/workflows/check-potential-problems.yml](.github/workflows/check-potential-problems.yml)
-1. Commit all changes as a new revision(commit summary for reference: `docs: Write project README prototype`)
-1. (If you've cloned the repository back to local) push local changes to the remote repository
+To be addressed.
 
 ## Licensing
 
-Unless otherwise noted, this product is licensed under 4.0 International version of the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its recent versions you would prefer.
+Unless otherwise noted, this product is licensed under the [4.0 International version of the Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/), or any of its recent versions you would prefer.
 
 This work complies to the [REUSE Specification](https://reuse.software/spec/), refer [REUSE - Make licensing easy for everyone](https://reuse.software/) for info regarding the licensing of this product.
