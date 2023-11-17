@@ -7,7 +7,7 @@ Ready to use, batteries included Docker Compose configuration file at your finge
 
 ## References
 
-To be addressed.
+* [Compose file version 3 reference | Docker Docs](https://docs.docker.com/compose/compose-file/compose-file-v3/)
 
 ## Licensing
 
