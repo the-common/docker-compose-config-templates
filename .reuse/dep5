@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: The Common Project Template
+Upstream-Name: The Common Docker Compose Configuration Templates
 Upstream-Contact: Issues · the-common/docker-compose-config-templates <https://github.com/the-common/docker-compose-config-templates/issues>
-Source: https://github.com/the-common/project-template
+Source: https://github.com/the-common/docker-compose-config-templates
 
 Files:
  *README.md
